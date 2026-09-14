@@ -1,2 +1,3 @@
-# maryam-asif-portfolio
-My professional portfolio showcasing my Flutter projects, skills, education, and achievement.
+📧 Email: maryaamasiif@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/maryam-asif-108691407
+💻 GitHub: https://github.com/Maryamasif2006
